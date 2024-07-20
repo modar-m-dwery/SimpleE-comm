@@ -70,4 +70,4 @@ staticfiles/
 # Dockerfile
 # docker-compose.yml
 
-.md
+*.md
